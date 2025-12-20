@@ -23,7 +23,7 @@
   - Token/ Cookie/ Email & Password Login  
   - Auto Refresh Cookie/ Fbstate  
 - 📊 **ডাটাবেস সাপোর্ট**  
-  - MongoDB / SQLite Database Integration  
+  - MongoDB / SQLite Integration  
 - 🔧 **Error Handling & Logs**  
   - Detailed error messages  
   - Command, Reply, Reaction, Event level errors  
@@ -34,5 +34,5 @@
 
 1. **Clone Repo**  
 ```bash
-git clone https://github.com/yourrepo/goat-bot.git
-cd goat-bot
+git clone https://github.com/akashXrahat/MATURE-AI-CHAT.git
+cd MATURE-AI-CHAT
