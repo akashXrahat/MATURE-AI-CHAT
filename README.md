@@ -39,3 +39,26 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 </table>
 <a><img       
 src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
+
+## ✨ Bot Features ✨
+
+✔️ Fast & Smooth Performance  
+✔️ 🔞 18+ Friendly Commands  
+✔️ Group & Inbox Support  
+✔️ Auto Reply System  
+✔️ Stylish Output & Media Support  
+✔️ Easy Install & Use  
+
+---
+
+## ⚙️ Installation Guide ⚙️
+
+```bash
+pkg install git
+pkg install nodejs
+git clone https://github.com/USERNAME/REPO.git
+cd REPO
+npm install
+npm start
