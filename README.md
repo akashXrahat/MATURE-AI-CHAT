@@ -58,7 +58,7 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 ```bash
 pkg install git
 pkg install nodejs
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/akashXrahat/MATURE-AI-CHAT.git
 cd REPO
 npm install
 npm start
