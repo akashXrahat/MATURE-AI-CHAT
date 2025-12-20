@@ -1,3 +1,9 @@
+<div align="center">
+ <!-- Logo Typing Banner -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=56&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=1100&lines=☠️+𝐑𝐀𝐇𝐀𝐓+𝐀𝐍𝐃+𝐀𝐊𝐀𝐒𝐇+☠️" alt="Goat Bot Banner"/>
+  </p>
+</div>
 ## 👑 Owners 👑 
 <a><img       
 src='https://i.imgur.com/LyHic3i.gif'/></a>
