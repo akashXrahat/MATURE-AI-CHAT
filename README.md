@@ -26,7 +26,7 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
     </td>
     <td align="center">
       <img src="https://i.imgur.com/yQTQfNI.jpeg" width="160" style="border-radius:50%"><br><br>
-      <b>MOHAMMAD AKASH </b><br><br>
+      <b>🩵AKASH🩵 </b><br><br>
       <a href="https://github.com/mdakashproject" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
       </a>
