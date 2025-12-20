@@ -1,4 +1,6 @@
 ## 👑 Owners 👑 
+<a><img       
+src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=🔞HoT%20Messanger%20BoT🔞&fontAlign=50&fontAlignY=40&color=gradient&desc=🥵Rahat%20and%20akash%20🥵&descAlign=50&descAlignY=60"/>
 </p>
