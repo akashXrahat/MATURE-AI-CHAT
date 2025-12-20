@@ -5,7 +5,7 @@ const https = require("https");
 exports.config = {
   name: "cutereply",
   version: "2.1.0",
-  author: "MOHAMMAD AKASH",
+  author: "AKASH x RAHAT",
   countDown: 0,
   role: 0,
   shortDescription: "Reply with text + image on trigger",
@@ -28,11 +28,14 @@ const TRIGGERS = [
     ]
   },
   {
-    words: ["দুধ দেখাও"],
+    words: ["দুধ", "milk", "dudh", "dud"],
     text: "Khaiba Jan 👄🫦🥵",
     images: [
-      "https://i.imgur.com/GRmoSHk.jpeg",
-      "https://i.imgur.com/EphhGw3.jpeg"
+      "https://i.imgur.com/pvg96iq.jpeg",
+      "https://i.imgur.com/QwhSzK6.jpeg",
+      "https://i.imgur.com/7nVvlGN.jpeg",
+      "https://i.imgur.com/jxoA0io.jpeg",
+      "https://i.imgur.com/38kl8ph.jpeg"
     ]
   }
 ];
