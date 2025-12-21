@@ -58,14 +58,19 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🧠 About This Project
 
 **MATURE AI CHAT** is a premium **Facebook Messenger Bot** built with **Node.js**, powered by a **cookie-based login system**.  
-Instead of using Facebook Page Tokens or Webhooks, this bot runs using **Facebook account cookies (appstate)** stored in `appstate.js`.
+Instead of using Facebook C3c cookie , this bot runs using **Facebook account cookie stored in `account.txt`
 
 This method allows the bot to operate directly on Messenger accounts and is commonly used for **personal automation and testing purposes**.
 
 ## 📜 License
 
-MIT License (No Derivatives)  
-Redistribution allowed without modification only.
+This project is licensed under the **GNU General Public License v3.0 or later** - see the [COPYING](./COPYING) file for full details.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+> ⚠️ **Warning:** This is a modified version of the GPL v3 license for God Bot usage.  
+> Personal and educational use is allowed. Commercial redistribution or rebranding is **strictly prohibited**.  
+> Using this bot may involve Facebook cookies (`account.txt`). Use at your own risk.
 
 ### ☁️ Supported Deployment Platforms
 
@@ -79,8 +84,8 @@ Redistribution allowed without modification only.
 
 ### 🔑 Authentication Method
 
-- ✅ Cookie-based login (appstate)
-- 📁 Store cookies in `appstate.js`
+- ✅ Cookie-based login (account.txt)
+- 📁 Store cookies in `account.txt`
 - ❌ No Facebook Page Token required
 - ❌ No Webhook setup needed
 
