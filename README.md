@@ -55,6 +55,32 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 ✔ 𝗘𝗮𝘀𝘆 𝗜𝗻𝘀𝘁𝗮𝗹𝗹 & 𝗨𝘀𝗲
 
 ---
+## 🧠 About This Project
+
+**MATURE AI CHAT** is a premium **Facebook Messenger Bot** built with **Node.js**, powered by a **cookie-based login system**.  
+Instead of using Facebook Page Tokens or Webhooks, this bot runs using **Facebook account cookies (appstate)** stored in `appstate.js`.
+
+This method allows the bot to operate directly on Messenger accounts and is commonly used for **personal automation and testing purposes**.
+
+### ☁️ Supported Deployment Platforms
+
+- ☁️ **Replit**
+- ☁️ **Render**
+- ☁️ **Railway**
+- ☁️ **Cyclic**
+- ☁️ **Fly.io**
+- ☁️ **Koyeb**
+- ☁️ **Glitch**
+
+### 🔑 Authentication Method
+
+- ✅ Cookie-based login (appstate)
+- 📁 Store cookies in `appstate.js`
+- ❌ No Facebook Page Token required
+- ❌ No Webhook setup needed
+
+> ⚠️ **Warning:** Using cookie-based bots may violate Facebook policies.  
+> This project is intended for **educational and personal use only**.
 ## ⚙️ Installation Guide ⚙️
 
 ```bash
