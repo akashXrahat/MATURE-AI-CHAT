@@ -52,7 +52,6 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 ✔️ Auto Reply System
 
 ✔️ Stylish Output & Media Support
-
 ✔️ Easy Install & Use
 
 ---
