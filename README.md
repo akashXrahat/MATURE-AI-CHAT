@@ -55,3 +55,13 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 ✔ 𝗘𝗮𝘀𝘆 𝗜𝗻𝘀𝘁𝗮𝗹𝗹 & 𝗨𝘀𝗲
 
 ---
+## ⚙️ Installation Guide ⚙️
+
+```bash
+pkg install git
+pkg install nodejs
+git clone https://github.com/akashXrahat/MATURE-AI-CHAT.git
+cd REPO
+npm install
+npm start
+
