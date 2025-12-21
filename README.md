@@ -62,6 +62,11 @@ Instead of using Facebook Page Tokens or Webhooks, this bot runs using **Faceboo
 
 This method allows the bot to operate directly on Messenger accounts and is commonly used for **personal automation and testing purposes**.
 
+## 📜 License
+
+MIT License (No Derivatives)  
+Redistribution allowed without modification only.
+
 ### ☁️ Supported Deployment Platforms
 
 - ☁️ **Replit**
