@@ -91,14 +91,6 @@ This project is licensed under the **GNU General Public License v3.0 or later** 
 
 > ⚠️ **Warning:** Using cookie-based bots may violate Facebook policies.  
 > This project is intended for **educational and personal use only**.
-
-## Main Fork👋👇
-<p align="center">
-  <a href="https://github.com/akashXrahat/MATURE-AI-CHAT.git" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="Fork on GitHub" style="border-radius: 50%;">
-  </a>
-</p>
-
 ## ⚙️ Installation Guide ⚙️
 
 ```bash
@@ -109,3 +101,9 @@ cd REPO
 npm install
 npm start
 ```
+## Main Fork👋👇
+<p align="center">
+  <a href="https://github.com/akashXrahat/MATURE-AI-CHAT.git" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="Fork on GitHub" style="border-radius: 50%;">
+  </a>
+</p>
