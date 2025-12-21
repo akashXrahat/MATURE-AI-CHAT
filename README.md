@@ -41,4 +41,13 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ---
+## ✨ Bot Features ✨
 
+✔️Fast & Smooth Performance
+✔️ 🔞 18+ Friendly Commands
+✔️ Group & Inbox Support
+✔️ Auto Reply System
+✔️ Stylish Output & Media Support
+✔️ Easy Install & Use
+
+---
