@@ -108,5 +108,4 @@ git clone https://github.com/akashXrahat/MATURE-AI-CHAT.git
 cd REPO
 npm install
 npm start
-
----
+```
