@@ -44,7 +44,7 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ✨ Bot Features ✨
 
-✔️ Fast & Smooth Performance
+✔️Fast & Smooth Performance
 ✔️ 🔞 18+ Friendly Commands
 ✔️ Group & Inbox Support
 ✔️ Auto Reply System
