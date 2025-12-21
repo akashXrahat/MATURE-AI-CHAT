@@ -94,7 +94,7 @@ This project is licensed under the **GNU General Public License v3.0 or later** 
 
 ## Main Fork👋👇
 <p align="center">
-  <a href="https://github.com/akashXrahat/MATURE-AI-CHAT/fork" target="_blank">
+  <a href="https://github.com/akashXrahat/MATURE-AI-CHAT.git" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="Fork on GitHub" style="border-radius: 50%;">
   </a>
 </p>
