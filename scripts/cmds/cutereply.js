@@ -37,7 +37,14 @@ const TRIGGERS = [
       "https://i.imgur.com/jxoA0io.jpeg",
       "https://i.imgur.com/38kl8ph.jpeg"
     ]
-  }
+  },
+  {
+    word: ["ভুদা", "গুদ", "vuda"],
+    text: "চুষে দিবা জান 🫦🥵",
+    images [
+      "https://i.imgur.com/aqjnjR3.jpeg",
+      "https://i.imgur.com/knSzeOj.jpeg",
+      "https://i.imgur.com/pupjXKH.jpeg"
 ];
 // =======================
 
