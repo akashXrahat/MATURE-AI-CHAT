@@ -39,12 +39,14 @@ const TRIGGERS = [
     ]
   },
   {
-    word: ["ভুদা", "গুদ", "vuda"],
+    words: ["ভুদা", "গুদ", "vuda"],
     text: "চুষে দিবা জান 🫦🥵",
-    images [
+    images: [
       "https://i.imgur.com/aqjnjR3.jpeg",
       "https://i.imgur.com/knSzeOj.jpeg",
       "https://i.imgur.com/pupjXKH.jpeg"
+    ]
+  }
 ];
 // =======================
 
@@ -82,14 +84,13 @@ exports.onChat = async function ({ event, api }) {
       await download(imgUrl, imgPath);
     }
 
-    // 🔥 REPLY to the same message
     api.sendMessage(
       {
         body: matched.text,
         attachment: fs.createReadStream(imgPath)
       },
       threadID,
-      messageID // <-- এইটা থাকায় রিপ্লাই হবে
+      messageID // reply
     );
 
   } catch (e) {
